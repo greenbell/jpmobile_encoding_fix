@@ -1,4 +1,5 @@
 require 'jpmobile_encoding_fix/version'
+require 'jpmobile_encoding_fix/mail'
 require 'jpmobile'
 require 'active_support/core_ext'
 

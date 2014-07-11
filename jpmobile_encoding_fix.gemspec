@@ -18,6 +18,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_runtime_dependency "activesupport", "~> 3.0"
+  spec.add_runtime_dependency "actionmailer", "~> 3.0"
   spec.add_runtime_dependency "jpmobile", "~> 3.0"
   spec.add_development_dependency "bundler", "~> 1.5"
   spec.add_development_dependency "rake"
